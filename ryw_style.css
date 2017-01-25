@@ -22,6 +22,7 @@ body {
 }
 #map {
 	background: rgb(40,46,125);
+	width: 100%;
 }
 
 img {
