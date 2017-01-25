@@ -12,14 +12,17 @@ body {
 	height: 100%;
 	width: 100%;
 }
+
 #bar {
 	background: rgb(40,46,125);
 
 }
+
 #start-stop {
 	width:100%;
 	height: 20px;
 }
+
 #map {
 	background: rgb(40,46,125);
 	width: 100%;

@@ -27,5 +27,6 @@
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAf0Nha2Aj10tTGo39umyxCaCgw5BOkIyI&callback=initMap">
     </script>
+    <img src="bus.png"/>
   </body>
 </html>
